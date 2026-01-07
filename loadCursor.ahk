@@ -1,4 +1,5 @@
-﻿;==============================================================
+﻿#Requires AutoHotkey v1.1.12+
+;==============================================================
 ; loadCursor — Loads a shared system cursor handle via LoadImage
 ;
 ; GitHub: https://github.com/SevenKeyboard/load-cursor
